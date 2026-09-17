@@ -1,5 +1,5 @@
 ---
-title: 正在跳转到 Docmost...
+title: 在线文档 Docmost...
 date: 2026-09-17 16:37:00
 layout: false
 ---
