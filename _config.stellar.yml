@@ -1,0 +1,16 @@
+favicon: /images/favicon.ico  # 或者 .png
+
+# 2. 网站导航栏左上角的 Logo
+logo:
+  title: '浙临天路客'   # 左上角的文字，可以和全局 title 不同，比如只写 Zltlk
+  subtitle: 'Zhejiang Linan Koinonia of Pilgrims'      # 鼠标悬停在左上角时，翻转显示的文字 (可选)
+
+
+aside:
+  widgets:
+    - about         # 个人介绍面板
+    - recent_posts  # 最近文章
+    - category      # 文章分类
+    - tagcloud      # 标签云
+    - links         # 友情链接
+
