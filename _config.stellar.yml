@@ -1,26 +1,43 @@
 logo:
   title: '浙临天路客'
-  subtitle: "Zhejiang Lin'an Koinonia of Pilgrims"
+  subtitle: "Zj Lin'an Koinonia of Pilgrims"
 menubar:
   columns: 4 # 一行多少个
   items: # 可按照自己需求增加，符合以下格式即可
-     - id: post # 页面中高亮的 menu_id
-       theme: '#1BCDFC' # 高亮时的颜色，仅 svg 中 fill="currentColor" 时有效
+     - id: post
+       theme: '#B92ED1'
        icon: default:documents
        title: 博客 # 标题
        url: /
      - id: wiki
        theme: '#3DC550'
-       icon: default:category
+       icon: example:notebook
        title: 文档
-       url: /docmost
+       url: /docmost.html
      - id: explore
        theme: '#FA6400'
-       icon: default:pin
+       icon: solar:planet-bold-duotone
        title: 探索
-       url: /notes/
+       url: /explore/
      - id: social
-       theme: '#F44336'
-       icon: default:hashtag
-       title: 社交
+       theme: '#F62477'
+       icon: solar:chat-square-like-bold-duotone
+       title: 友链
        url: /friends/
+     - id: social
+       theme: purple
+       icon: solar:user-id-bold-duotone
+       title: 关于
+       url: /about/
+     - id: social
+       theme: blue
+       icon: icon-park-twotone:cloud-storage
+       title: 云端存储
+       url: /cloudreve.html
+     - id: social
+       theme: green
+       icon: pajamas:monitor
+       title: 服务监控
+       url: /beszel.html
+
+
