@@ -13,7 +13,7 @@ menubar:
        theme: '#3DC550'
        icon: example:notebook
        title: 文档
-       url: /docmost.html
+       url: https://zltlk.github.io/docmost.html
      - id: explore
        theme: '#FA6400'
        icon: solar:planet-bold-duotone
@@ -33,11 +33,11 @@ menubar:
        theme: blue
        icon: icon-park-twotone:cloud-storage
        title: 云端存储
-       url: /cloudreve.html
+       url: https://zltlk.github.io/cloudreve.html
      - id: social
        theme: green
        icon: pajamas:monitor
        title: 服务监控
-       url: /beszel.html
+       url: https://zltlk.github.io/beszel.html
 
 
